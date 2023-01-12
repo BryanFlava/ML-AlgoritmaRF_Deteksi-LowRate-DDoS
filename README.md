@@ -1,4 +1,4 @@
-# Pendeteksi Serangan DDoS dengan Menggunakan Machine Learning
+# Pendeteksi Serangan LowRate DDoS dengan Menggunakan Machine Learning
 ## _Bryan Samperura (1204041) Universitas Logistik & Bisnis International_
 
 [![N|RandomForestClassifer](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
